@@ -3,6 +3,6 @@
 A useful software 
 
 20170915
-3DPTools V1.0 for x64
+3DPTools_x64_V1.0_20170915.rar
 Implement  Power Continue.
 Correspond  firmware is Marlin 1.1_3dymy V1.0
